@@ -1,0 +1,8 @@
+sudo: required
+language: java
+jdk: openjdk:8
+
+script: ./mvnw clean install -B
+
+notifications:
+  email: koka.ui8@gmail.com
