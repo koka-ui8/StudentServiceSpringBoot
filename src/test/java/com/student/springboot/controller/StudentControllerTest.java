@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.controller;
+package com.student.springboot.controller;
 
 import static org.junit.Assert.assertEquals;
 

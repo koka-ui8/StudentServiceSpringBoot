@@ -1,4 +1,4 @@
-package com.in28minutes.springboot;
+package com.student.springboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
