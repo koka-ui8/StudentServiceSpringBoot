@@ -1,13 +1,8 @@
 language: java
 jdk:
   - openjdk8
-
-before_install:
-  - pwd
-  - ls -la
-  - chmod +x ./mvn
   
-script: ./mvn clean install
+script: ./mvnw clean install
 
 notifications:
   email: koka.ui8@gmail.com
